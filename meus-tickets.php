@@ -184,7 +184,7 @@ $result = $stmt->get_result();
                             <?php endwhile; ?>
                         <?php else: ?>
                             <tr>
-                                <td colspan="9" class="empty-state">
+                                <td colspan="10" class="empty-state">
                                     <i class='bx bx-ghost'></i>
                                     <p>Você ainda não abriu nenhum chamado.</p>
                                 </td>
